@@ -76,7 +76,8 @@ Before using this script, ensure you have the following in your **Workspace**:
 ## Video Tutorial
 For a step-by-step visual guide, watch the [YouTube Tutorial](https://www.youtube.com/watch?v=aWoBaKOk1_c).
 
-[![Watch the video](https://img.youtube.com/vi/aWoBaKOk1_c/0.jpg)](https://www.youtube.com/watch?v=aWoBaKOk1_c){:target="_blank"}
+[![Watch the video](https://img.youtube.com/vi/aWoBaKOk1_c/0.jpg)](https://www.youtube.com/watch?v=aWoBaKOk1_c)
+
 
 ---
 
