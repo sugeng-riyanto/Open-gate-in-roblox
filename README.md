@@ -1,7 +1,11 @@
 
 
 # Roblox Script: Interactive Button with Gate, Sound, and Particle Effects
+## Try the Game
+Want to see the script in action? Try the game on Roblox:  
+[Play the Game](https://www.roblox.com/games/77779749952707/)  
 
+Click the link above to play the game!
 ## Description
 This script allows students to create an interactive button in Roblox Studio. When the button is touched by a player, the button changes color, a gate becomes transparent and passable, particles emit from a specified part, and a sound plays. After 10 seconds, everything resets to its original state.
 
